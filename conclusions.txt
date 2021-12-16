@@ -1,0 +1,12 @@
+﻿Kickstarter: Report
+Hypothesis: “The outcome of a campaign to be successful is dependent on the categories of the projects.”
+* Overall, the outcome of Kickstarter projects falls into the categories: Successful (53.1%) and Failed (37.2%). A small portion of those projects were either cancelled (8.5%) for unknown reasons and some were still live (1.2%) at the time the data was collected.
+* We can conclude based on the finding from sheet 2 that there is an overall higher performing success rate for projects that are categorised in film & video, theatre, and music relative to the other parent categories.
+* Of the Sub-categories, plays (19.7%), rock (7.4%) and documentaries (5.1%) are popular subcategories.
+* We can not confirm certainly that there is a strong correlation between the outcome of the Kickstarter campaigns and the category in which the project is placed into.
+There are of course some limitations to this experiment. It is not considered that the graphs constructed do not include other factors that may potentially affect the outcome of the campaigns. These may include the time elapsed, funding goal amount and the number of backers. 
+To grasp a better understanding of the impact of the other factors, bar graphs can be constructed with the state of the campaigns against the time elapsed, funding goal amount and the number of people who contributed to each project. 
+
+
+Bonus Statistical Activity:
+In many cases, the mean is the most preferred when it comes to central tendencies. However, in this activity, the median would be a better measure to interpret the data to describe the centre. Looking at the mean and median for both successful and failed projects, the values are significantly different which suggests the distribution is relatively skewed due to the extreme data points. The maximum value for successful projects of 26457 and failed of 1293 confirms the distribution. Therefore the median is more meaningful when interpreting the centre.
